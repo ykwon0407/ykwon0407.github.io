@@ -1,13 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Yongchan Kwon:
+  name        : "Yongchan Kwon"
+  uri         : "http://ykwon0407.github.io"
+  email       : "yckwon@stanford.edu"
+  bio         : # "This is the first name."
+  avatar      : "/images/profile.JPG"
+  twitter     : # "name"
+  google_plus : # "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
