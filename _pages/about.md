@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yongchan Kwon, a term Assistant Professor in the Department of Statistics at Columbia University. My research focuses on developing more interpretable and rigorous machine learning methods, directly motivated by scientific questions. I received a Ph.D. at Seoul National University (Advisor: by Prof. [Myunghee Cho Paik](https://mcpstat.github.io/)) and did postdoc at Stanford University (Mentor: Prof. [James Zou](https://www.james-zou.com/)). 
+Hi, I am Yongchan Kwon, a term Assistant Professor in the Department of Statistics at Columbia University. My research focuses on developing more interpretable and rigorous machine learning methods, directly motivated by scientific questions. I received a Ph.D. at Seoul National University (Advisor: Prof. [Myunghee Cho Paik](https://mcpstat.github.io/)) and did postdoc at Stanford University (Mentor: Prof. [James Zou](https://www.james-zou.com/)). 
 
 
 Education
