@@ -30,5 +30,5 @@ Selected Publications
 
 Contact
 ------
-Email: yckwon (at) stanford (dot) edu
+Email: yk3012 (at) columbia (dot) edu
 
