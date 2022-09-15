@@ -30,6 +30,8 @@ Selected Publications
 
 * **Kwon, Y.** and Zou, J.. (2022). Beta-Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning. *Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)*, PMLR 151:8780-8802. [[URL]](https://arxiv.org/abs/2110.14049). [[GitHub]](https://github.com/ykwon0407/beta_shapley). ***(selected for oral presentation, Top 2.6%)***.
 
+* **Kwon, Y.**, Rivas, M.A., and Zou, J.. (2021). Efficient computation and analysis of distributional Shapley values. *Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021)*, PMLR 130:793-801. [[URL]](http://proceedings.mlr.press/v130/kwon21a.html). [[GitHub]](https://github.com/ykwon0407/fast_dist_shapley).
+
 * **Kwon, Y.**, Kim, W., Won, J.-H., and Paik, M.C.. (2020). Principled learning method for Wasserstein distributionally robust optimization with local perturbations. *Proceedings of the 37th International Conference on Machine Learning (ICML 2020)*, PMLR 119:5567-5576. [[URL]](http://proceedings.mlr.press/v119/kwon20a.html). [[GitHub]](https://github.com/ykwon0407/wdro_local_perturbation).
 
 Contact
