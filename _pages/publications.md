@@ -38,7 +38,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 * Winzeck S, ..., **Kwon, Y.**, et al. (2018). ISLES 2016 & 2017. Benchmarking Ischemic Stroke Lesion Outcome Prediction Based on Multispectral MRI. *Frontiers in Neurology*, 9, 679. [[URL]](https://www.frontiersin.org/articles/10.3389/fneur.2018.00679/full).
 
-* Choi, Y., **Kwon, Y.**, Lee, H., Kim, B. J., Paik, M.C., and Won, J.-H.. (2017). Ensemble of Deep Convolutional Neural Networks for Prognosis of Ischemic Stroke. *Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries. BrainLes 2016. Lecture Notes in Computer Science*, 10154: 231-243. [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-55524-9_22).
+* Choi, Y.\*, **Kwon, Y.**\*, Lee, H.\*, Kim, B. J., Paik, M.C., and Won, J.-H.. (2017). Ensemble of Deep Convolutional Neural Networks for Prognosis of Ischemic Stroke. *Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries. BrainLes 2016. Lecture Notes in Computer Science*, 10154: 231-243. [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-55524-9_22).
 
 * **Kwon, Y.**, Choi, Y.-G., Park, T., Ziegler, A., and Paik, M.C.. (2017). Generalized estimating equations with stabilized working correlation structure. *Computational Statistics & Data Analysis*, 106: 1-11. [[URL]](https://www.sciencedirect.com/science/article/pii/S0167947316302079).
 
