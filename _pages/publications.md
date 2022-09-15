@@ -7,11 +7,11 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=PElI4ikAAAAJ).
 
-* **Kwon, Y.** and Zou, J. (2022). WeightedSHAP: analyzing and improving Shapley based feature attributions. ***Accepted in Neural Information Processing Systems (NeurIPS 2022)***.
+* **Kwon, Y.** and Zou, J. (2022). WeightedSHAP: analyzing and improving Shapley based feature attributions. *Accepted in Neural Information Processing Systems (NeurIPS 2022)*.
 
-* Liang, W.\*, Zhang, Y.\*, **Kwon, Y.**\*, Yeung, S., and Zou, J. (2022). Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. ***Accepted in Neural Information Processing Systems (NeurIPS 2022)***. \href{https://arxiv.org/abs/2203.02053}{[URL]}. \href{https://modalitygap.readthedocs.io/en/latest/}{[Website]}.
+* Liang, W.\*, Zhang, Y.\*, **Kwon, Y.**\*, Yeung, S., and Zou, J. (2022). Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. *Accepted in Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://modalitygap.readthedocs.io/en/latest/).
 
-* Parikh. V., ..., **Kwon, Y.**, ..., and Ashley, E. (2022). Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy. ***Nature Communications***. \href{https://www.nature.com/articles/s41467-022-32397-8}{[URL]}.
+* Parikh. V., ..., **Kwon, Y.**, ..., and Ashley, E. (2022). Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy. *Nature Communications*. [[URL]](https://www.nature.com/articles/s41467-022-32397-8).
 
 * **Kwon, Y.** and Zou, J.. (2022). Beta-Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning. *Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)*, PMLR 151:8780-8802. [[URL]](https://arxiv.org/abs/2110.14049). [[GitHub]](https://github.com/ykwon0407/beta_shapley). ***(selected for oral presentation, Top 2.6%)***.
 
@@ -28,7 +28,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 * **Kwon, Y.**, Kim, W., Sugiyama, M., and Paik, M.C.. (2020). Principled analytic formulation for positive-unlabeled learning via weighted integral probability metric. *Machine Learning*, 109 (3): 513-532. [[URL]](http://link.springer.com/article/10.1007/s10994-019-05836-9). [[GitHub]](https://github.com/eraser347/WMMD_PU).
 
 * **Kwon, Y.**, Won, J.-H., Kim, B. J. and Paik, M.C.. (2020). Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation. *Computational Statistics & Data Analysis*, 142: 106816. [[URL]](https://doi.org/10.1016/j.csda.2019.106816). [[GitHub]](https://github.com/ykwon0407/UQ_BNN). ***(Top 2 most cited publications in the journal in the past 3 years, as of Jun 2022)***.
- - ***Conference version is accepted as an Oral presentation at International Conference on Medical Imaging with Deep Learning 2018 (MIDL 2018) / As of July 2022, top 2 most cited publications in the journal in the past 3 years.***
+ - *Conference version is accepted as an Oral presentation at International Conference on Medical Imaging with Deep Learning 2018 (MIDL 2018) / As of July 2022, top 2 most cited publications in the journal in the past 3 years.*
 
 * Ryu, S., **Kwon, Y.**, and Kim, W.. (2019). Bayesian graph convolutional network for reliable prediction of molecular properties with uncertainty quantification.  *Chemical Science*, 10 (36): 8438-8446. [[URL]](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01992h#!divAbstract). [[GitHub]](https://github.com/SeongokRyu/uq_molecule).
 
