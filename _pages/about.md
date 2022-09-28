@@ -24,9 +24,9 @@ Education
 Selected Publications
 -----
 
-* **Kwon, Y.** and Zou, J. (2022). WeightedSHAP: analyzing and improving Shapley based feature attributions. *Accepted in Neural Information Processing Systems (NeurIPS 2022)*.
+* **Kwon, Y.** and Zou, J. (2022). WeightedSHAP: analyzing and improving Shapley based feature attributions. *Accepted in Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2209.13429). [[GitHub]](https://github.com/ykwon0407/WeightedSHAP).
 
-* Liang, W.\*, Zhang, Y.\*, **Kwon, Y.**\*, Yeung, S., and Zou, J. (2022). Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. *Accepted in Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://modalitygap.readthedocs.io/en/latest/).
+* Liang, W.\*, Zhang, Y.\*, **Kwon, Y.**\*, Yeung, S., and Zou, J. (2022). Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. *Accepted in Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://modalitygap.readthedocs.io/en/latest/). [[GitHub]](https://github.com/Weixin-Liang/Modality-Gap).
 
 * **Kwon, Y.** and Zou, J.. (2022). Beta-Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning. *Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)*, PMLR 151:8780-8802. [[URL]](https://arxiv.org/abs/2110.14049). [[GitHub]](https://github.com/ykwon0407/beta_shapley). ***(selected for oral presentation, Top 2.6%)***.
 
