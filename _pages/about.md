@@ -13,7 +13,7 @@ Hi, I am Yongchan Kwon, a term Assistant Professor in the [Department of Statist
 
 Experience
 -----
-* Assitant Professor, Department of Statistics, Columbia University, 2022 - Current
+* Assistant Professor, Department of Statistics, Columbia University, 2022 - Current
 * Postdoc Researcher, Department of Biomedical Data Science, Stanford University, 2020 - 2022
 
 Education
