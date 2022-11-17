@@ -7,11 +7,11 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=PElI4ikAAAAJ).
 
-* **Kwon, Y.**, Ginart, T., and Zou, J. (2022). Competition over data: how does data purchase affect users? *Accepted at Transaction of Machine Learning Research (TMLR)*. [[URL]](https://openreview.net/forum?id=63sJsCmq6Q). [[GitHub]](https://github.com/ykwon0407/data_purchase_in_comp).
+* **Kwon, Y.**, Ginart, T., and Zou, J. (2022). Competition over data: how does data purchase affect users? *Transactions of Machine Learning Research (TMLR)*. [[URL]](https://openreview.net/forum?id=63sJsCmq6Q). [[GitHub]](https://github.com/ykwon0407/data_purchase_in_comp).
 
-* **Kwon, Y.** and Zou, J. (2022). WeightedSHAP: analyzing and improving Shapley based feature attributions. *Accepted in Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2209.13429). [[GitHub]](https://github.com/ykwon0407/WeightedSHAP).
+* **Kwon, Y.** and Zou, J. (2022). WeightedSHAP: analyzing and improving Shapley based feature attributions. *Accepted at Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2209.13429). [[GitHub]](https://github.com/ykwon0407/WeightedSHAP).
 
-* Liang, W.\*, Zhang, Y.\*, **Kwon, Y.**\*, Yeung, S., and Zou, J. (2022). Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. *Accepted in Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://modalitygap.readthedocs.io/en/latest/). [[GitHub]](https://github.com/Weixin-Liang/Modality-Gap).
+* Liang, W.\*, Zhang, Y.\*, **Kwon, Y.**\*, Yeung, S., and Zou, J. (2022). Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. *Accepted at Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://modalitygap.readthedocs.io/en/latest/). [[GitHub]](https://github.com/Weixin-Liang/Modality-Gap).
 
 * Parikh. V., ..., **Kwon, Y.**, ..., and Ashley, E. (2022). Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy. *Nature Communications*. [[URL]](https://www.nature.com/articles/s41467-022-32397-8).
 
