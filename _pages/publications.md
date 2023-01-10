@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 * Liang, W.\*, Zhang, Y.\*, **Kwon, Y.**\*, Yeung, S., and Zou, J. (2022). Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. *Accepted at Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://modalitygap.readthedocs.io/en/latest/). [[GitHub]](https://github.com/Weixin-Liang/Modality-Gap).
 
-* Parikh. V., ..., **Kwon, Y.**, ..., and Ashley, E. (2022). Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy. *Nature Communications*. [[URL]](https://www.nature.com/articles/s41467-022-32397-8).
+* Parikh. V., ..., **Kwon, Y.**, ..., and Ashley, E. (2022). Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy. *Nature Communications*. 13(1), 1-10. [[URL]](https://www.nature.com/articles/s41467-022-32397-8).
 
 * **Kwon, Y.** and Zou, J.. (2022). Beta-Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning. *Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)*, PMLR 151:8780-8802. [[URL]](https://arxiv.org/abs/2110.14049). [[GitHub]](https://github.com/ykwon0407/beta_shapley). ***(selected for oral presentation, Top 2.6%)***.
 
