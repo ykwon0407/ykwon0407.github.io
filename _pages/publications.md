@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 * **Kwon, Y.** and Zou, J. (2023). Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2304.07718). [[GitHub]](https://github.com/ykwon0407/dataoob).
 
-* Liang, W.\*, Mao, Y.\*, **Kwon, Y.**\*, Yang, X., and Zou, J. (2023). On the nonlinear correlation of ML performance between data subpopulations. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://moonshape.readthedocs.io/en/latest).
+* Liang, W.\*, Mao, Y.\*, **Kwon, Y.**\*, Yang, X., and Zou, J. (2023). On the nonlinear correlation of ML performance between data subpopulations. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2305.02995). [[Website]](https://moonshape.readthedocs.io/en/latest).
 
 * **Kwon, Y.**, Ginart, T., and Zou, J. (2022). Competition over data: how does data purchase affect users? *Transactions of Machine Learning Research (TMLR)*. [[URL]](https://openreview.net/forum?id=63sJsCmq6Q). [[GitHub]](https://github.com/ykwon0407/data_purchase_in_comp).
 

@@ -26,7 +26,7 @@ Selected Publications
 
 * **Kwon, Y.** and Zou, J. (2023). Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2304.07718). [[GitHub]](https://github.com/ykwon0407/dataoob).
 
-* Liang, W.\*, Mao, Y.\*, **Kwon, Y.**\*, Yang, X., and Zou, J. (2023). On the nonlinear correlation of ML performance between data subpopulations. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://moonshape.readthedocs.io/en/latest).
+* Liang, W.\*, Mao, Y.\*, **Kwon, Y.**\*, Yang, X., and Zou, J. (2023). On the nonlinear correlation of ML performance between data subpopulations. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2305.02995). [[Website]](https://moonshape.readthedocs.io/en/latest).
 
 * **Kwon, Y.** and Zou, J. (2022). WeightedSHAP: analyzing and improving Shapley based feature attributions. *Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2209.13429). [[GitHub]](https://github.com/ykwon0407/WeightedSHAP).
 
