@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Up-to-date list is available at [Google Scholar](https://scholar.google.com/citations?user=PElI4ikAAAAJ).
+An up-to-date list can be found at [Google Scholar](https://scholar.google.com/citations?user=PElI4ikAAAAJ).
 
 * **Kwon, Y.** and Zou, J. (2023). Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2304.07718). [[GitHub]](https://github.com/ykwon0407/dataoob).
 
