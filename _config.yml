@@ -85,7 +85,7 @@ author:
   bio              : "Term Assistant Professor at Columbia Stats"
   location         : "New York, NY"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PElI4ikAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -181,9 +181,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
 
 
 # Defaults

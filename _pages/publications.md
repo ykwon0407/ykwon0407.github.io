@@ -7,6 +7,8 @@ author_profile: true
 
 An up-to-date list can be found at [Google Scholar](https://scholar.google.com/citations?user=PElI4ikAAAAJ).
 
+* Jiang, K.\*, Liang, W.\*, Zou, J. and **Kwon, Y.**\* (2023). OpenDataVal: a Unified Benchmark for Data Valuation. *Advances in Neural Information Processing Systems (NeurIPS 2023) Track on Datasets and Benchmarks*. [[URL]](https://arxiv.org/abs/2306.10577). [[Website]](https://opendataval.github.io/). [[GitHub]](https://github.com/opendataval/opendataval/).
+
 * **Kwon, Y.** and Zou, J. (2023). Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2304.07718). [[GitHub]](https://github.com/ykwon0407/dataoob).
 
 * Liang, W.\*, Mao, Y.\*, **Kwon, Y.**\*, Yang, X., and Zou, J. (2023). On the nonlinear correlation of ML performance between data subpopulations. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2305.02995). [[Website]](https://moonshape.readthedocs.io/en/latest).
