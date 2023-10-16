@@ -11,8 +11,8 @@ I am working on developing a principled and pracitcal data contribution estimati
 
 
 <div width="175" align="left">
-<p align="center">
-<img src="/images/odv_illustration.png" width="300">
+<p align="left">
+<img src="/images/odv_illustration.png" width="500">
 </p>
 </div>
 
