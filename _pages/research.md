@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am working on developing a principled and pracitcal data contribution estimation (a.k.a. data valution) algorithms. With data valuation algorithms, our goal is to assess the quality of individual data points for improving model performance and mitigating biases. Please see [*Publications*](/publications) for more.
+I am working on developing a principled and pracitcal data contribution/valuation estimation algorithms. With efficient data valuation algorithms, our goal is to assess the quality of individual data points for improving model performance and mitigating biases. Please see [*Publications*](/publications) for more.
 
 ## OpenDataVal
 
