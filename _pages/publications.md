@@ -7,7 +7,9 @@ author_profile: true
 
 An up-to-date list can be found at [Google Scholar](https://scholar.google.com/citations?user=PElI4ikAAAAJ).
 
-* Jiang, K.\*, Liang, W.\*, Zou, J. and **Kwon, Y.**\* (2023). OpenDataVal: a Unified Benchmark for Data Valuation. *Advances in Neural Information Processing Systems (NeurIPS 2023) Track on Datasets and Benchmarks*. [[URL]](https://arxiv.org/abs/2306.10577). [[Website]](https://opendataval.github.io/). [[GitHub]](https://github.com/opendataval/opendataval/).
+* **Kwon, Y.**\*, Wu, E.\*, Wu, K.\*, and Zou, J.  (2024). DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models. *International Conference on Learning Representations. (ICLR 2024)*. [[URL]](https://openreview.net/forum?id=9m02ib92Wz). [[GitHub]](https://github.com/ykwon0407/DataInf).
+
+* Jiang, K.\*, Liang, W.\*, Zou, J. and **Kwon, Y.** (2023). OpenDataVal: a Unified Benchmark for Data Valuation. *Advances in Neural Information Processing Systems (NeurIPS 2023) Track on Datasets and Benchmarks*. [[URL]](https://arxiv.org/abs/2306.10577). [[Website]](https://opendataval.github.io/). [[GitHub]](https://github.com/opendataval/opendataval/).
 
 * **Kwon, Y.** and Zou, J. (2023). Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2304.07718). [[GitHub]](https://github.com/ykwon0407/dataoob).
 
