@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-An up-to-date list can be found at [Google Scholar](https://scholar.google.com/citations?user=PElI4ikAAAAJ).
+An up-to-date list is available on [Google Scholar](https://scholar.google.com/citations?user=PElI4ikAAAAJ).
+
+* Banks, D., Melo, G. D., Gong, S.,  **Kwon, Y.**, and, Rudin, C. (2024). Data Scientists Discuss AI Risks and Opportunities. *Harvard Data Science Review*. [[URL]](https://hdsr.mitpress.mit.edu/pub/yhlm3wly/release/1).
+
+* Wang, J.T., Yang, T., Zou, J., **Kwon, Y.**, and Jia, R. (2024). Rethinking Data Shapley for Data Selection Tasks: Misleads and Merits. *International Conference on Machine Learning (ICML 2024)*. ***(selected for oral presentation, Top 1.5\%)***. [[URL]](https://arxiv.org/abs/2405.03875).
 
 * **Kwon, Y.**\*, Wu, E.\*, Wu, K.\*, and Zou, J.  (2024). DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models. *International Conference on Learning Representations. (ICLR 2024)*. [[URL]](https://openreview.net/forum?id=9m02ib92Wz). [[GitHub]](https://github.com/ykwon0407/DataInf).
 

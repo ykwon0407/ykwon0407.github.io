@@ -24,21 +24,19 @@ Education
 Selected Publications
 -----
 
+* Wang, J.T., Yang, T., Zou, J., **Kwon, Y.**, and Jia, R. (2024). Rethinking Data Shapley for Data Selection Tasks: Misleads and Merits. *International Conference on Machine Learning (ICML 2024)*. ***(selected for oral presentation, Top 1.5\%)***. [[URL]](https://arxiv.org/abs/2405.03875).
+
 * **Kwon, Y.**\*, Wu, E.\*, Wu, K.\*, and Zou, J.  (2024). DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models. *International Conference on Learning Representations. (ICLR 2024)*. [[URL]](https://openreview.net/forum?id=9m02ib92Wz). [[GitHub]](https://github.com/ykwon0407/DataInf).
 
 * Jiang, K.\*, Liang, W.\*, Zou, J. and **Kwon, Y.**\* (2023). OpenDataVal: a Unified Benchmark for Data Valuation. *Advances in Neural Information Processing Systems (NeurIPS 2023) Track on Datasets and Benchmarks*. [[URL]](https://arxiv.org/abs/2306.10577). [[Website]](https://opendataval.github.io/). [[GitHub]](https://github.com/opendataval/opendataval/).
 
 * **Kwon, Y.** and Zou, J. (2023). Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2304.07718). [[GitHub]](https://github.com/ykwon0407/dataoob).
 
-* Liang, W.\*, Mao, Y.\*, **Kwon, Y.**\*, Yang, X., and Zou, J. (2023). On the nonlinear correlation of ML performance between data subpopulations. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2305.02995). [[Website]](https://moonshape.readthedocs.io/en/latest).
-
 * **Kwon, Y.** and Zou, J. (2022). WeightedSHAP: analyzing and improving Shapley based feature attributions. *Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2209.13429). [[GitHub]](https://github.com/ykwon0407/WeightedSHAP).
 
 * Liang, W.\*, Zhang, Y.\*, **Kwon, Y.**\*, Yeung, S., and Zou, J. (2022). Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. *Neural Information Processing Systems (NeurIPS 2022)*. [[URL]](https://arxiv.org/abs/2203.02053). [[Website]](https://modalitygap.readthedocs.io/en/latest/). [[GitHub]](https://github.com/Weixin-Liang/Modality-Gap).
 
 * **Kwon, Y.** and Zou, J.. (2022). Beta-Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning. *Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)*, PMLR 151:8780-8802. [[URL]](https://arxiv.org/abs/2110.14049). [[GitHub]](https://github.com/ykwon0407/beta_shapley). ***(selected for oral presentation, Top 2.6%)***.
-
-* **Kwon, Y.**, Kim, W., Won, J.-H., and Paik, M.C.. (2020). Principled learning method for Wasserstein distributionally robust optimization with local perturbations. *Proceedings of the 37th International Conference on Machine Learning (ICML 2020)*, PMLR 119:5567-5576. [[URL]](http://proceedings.mlr.press/v119/kwon20a.html). [[GitHub]](https://github.com/ykwon0407/wdro_local_perturbation).
 
 Contact
 ------
