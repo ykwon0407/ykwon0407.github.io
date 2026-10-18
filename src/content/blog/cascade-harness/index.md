@@ -13,7 +13,7 @@ Yongchan Kwon, Sanjana Srivastava, Shang Zhu, Zain Hasan, James Zou
 - **For open models, the harness matters as much as the model.** Even with the same model, harness choice and reasoning effort can change accuracy by up to 12 percentage points and cost by up to 3×.
 - **Harness cascade can improve accuracy and substantially cut costs.** A second harness can catch mistakes by independently checking earlier work, while handing the task to a cheaper finisher can substantially reduce costs. In one experiment, switching achieved 82.0% accuracy (vs. 77.9% for the best single harness) at 30% lower cost.
 - **The benefits generalize across models and benchmarks.** We observe similar improvements with two models (DeepSeek V4.1 Flash and GLM 5.3 Flash) and across two coding benchmarks (Terminal-Bench 2.1 and DeepSWE 1.1). Many switching configurations remain on the Pareto frontier, even when transferred to a different benchmark.
-- Check out our [harness cascade](https://github.com/ykwon0407/harness-cascade) and give it a try with the [Together API](https://www.together.ai/serverless-inference).
+- Check out our [git repo](https://github.com/ykwon0407/harness-cascade) and give it a try with the [Together API](https://www.together.ai/serverless-inference).
 
 </div>
 
@@ -31,7 +31,7 @@ We tested harness switching on Terminal-Bench 2.1 with DeepSeek V4.1 Flash. We u
 
 <!-- figure: tb21_deepseek.html height=620 -->
 
-*Caption: Each dot is one of the 20 configurations. Up and to the left is better. Hover for exact numbers.*
+*Each dot is one of the 20 configurations. Up and to the left is better. Hover for exact numbers.*
 
 Interestingly, the choice of harness can make a big difference in cost, even at the same accuracy: `CC-max` and `Pi-max` both solve 77.9% of tasks, but `CC-max` costs 73% more per task than `Pi-max`. Moreover, harness cascades fill the frontier. `CC-max → Pi-max` is the most accurate configuration we tested, at 82.0% — four points above both max solos — and costs 30% less than `CC-max`. At the cheap end, `CC-low → CC-low` reaches 80.5% for $0.066, more accurate than every solo at 40% of `CC-max`'s price. Eleven of the 16 switches beat the best solo on accuracy.
 

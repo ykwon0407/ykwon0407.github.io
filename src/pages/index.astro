@@ -6,20 +6,23 @@ import { getPosts, formatDate } from '../posts';
 const posts = await getPosts();
 ---
 <Base title={site.name}>
-  <h1>{site.name}</h1>
-  <p>{site.affiliation}</p>
-  <p>{site.goal}</p>
-  <p><a href={`mailto:${site.email}`}>{site.email}</a></p>
+  <div class="home">
+    <h1>{site.name}</h1>
+    <p class="affiliation">
+      <span>{site.role}, {site.affiliation}</span><span class="sep">·</span><a href={`mailto:${site.email}`}>{site.email}</a>
+    </p>
+    <p>{site.goal}</p>
 
-  <ul class="posts">
-    {posts.map((post) => (
-      <li>
-        <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
-        <span>
-          <a href={withBase(`posts/${post.id}/`)}>{post.data.title}</a>
-          {post.data.draft && <span class="draft">[draft]</span>}
-        </span>
-      </li>
-    ))}
-  </ul>
+    <ul class="posts">
+      {posts.map((post) => (
+        <li>
+          <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+          <span>
+            <a href={withBase(`posts/${post.id}/`)}>{post.data.title}</a>
+            {post.data.draft && <span class="draft">[draft]</span>}
+          </span>
+        </li>
+      ))}
+    </ul>
+  </div>
 </Base>

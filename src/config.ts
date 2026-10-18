@@ -1,6 +1,7 @@
 // All personal details live here. Replace the placeholders.
 export const site = {
   name: 'yongchan kwon',
+  role: 'Staff ML scientist',
   affiliation: 'Together AI',
   email: 'ykwon@together.ai',
   goal: 'to go beyond what humanity knows...',

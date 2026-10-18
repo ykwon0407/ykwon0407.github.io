@@ -22,4 +22,13 @@ const { Content } = await render(post);
     </p>
     <Content />
   </article>
+  <script>
+    // Figures are fixed-width (820px) HTML pages; shrink them to fit narrow screens.
+    const fit = () => {
+      const scale = Math.min(1, document.documentElement.clientWidth / 820);
+      document.querySelectorAll<HTMLIFrameElement>('iframe.figure').forEach((f) => (f.style.zoom = String(scale)));
+    };
+    fit();
+    addEventListener('resize', fit);
+  </script>
 </Base>
