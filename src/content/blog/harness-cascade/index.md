@@ -63,7 +63,7 @@ The accuracy gains deserve more caution than the cost savings (See Appendix). On
 
 ## How harness cascade works
 
-The first harness works on the task for N tool turns, a user setting (five in our experiments), and then writes a short summary: what it did, what it checked, and what is left. The second harness picks up the task in the same workspace with the original task and the summary, under a generic prompt that tells it to treat the summary as a hint and trust the files when they disagree. The verifier grades what the second harness leaves behind.
+The first harness works on the task for N tool turns, a user setting (five in our experiments), and then writes a short summary: what it did, what it checked, and what is left. The second harness picks up the task in the same workspace with the original task and the summary, under a generic prompt that tells it to treat the summary as a hint and trust the files when they disagree. The verifier grades what the second harness leaves behind. For related implementations, [Together Link](https://docs.together.ai/docs/togetherlink) can run many coding harnesses with open-source models!
 
 ## Conclusion
 
