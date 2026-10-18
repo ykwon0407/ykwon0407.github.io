@@ -1,0 +1,25 @@
+---
+import Base from '../layouts/Base.astro';
+import { site, withBase } from '../config';
+import { getPosts, formatDate } from '../posts';
+
+const posts = await getPosts();
+---
+<Base title={site.name}>
+  <h1>{site.name}</h1>
+  <p>{site.affiliation}</p>
+  <p>{site.goal}</p>
+  <p><a href={`mailto:${site.email}`}>{site.email}</a></p>
+
+  <ul class="posts">
+    {posts.map((post) => (
+      <li>
+        <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+        <span>
+          <a href={withBase(`posts/${post.id}/`)}>{post.data.title}</a>
+          {post.data.draft && <span class="draft">[draft]</span>}
+        </span>
+      </li>
+    ))}
+  </ul>
+</Base>

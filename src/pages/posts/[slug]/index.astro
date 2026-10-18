@@ -1,0 +1,25 @@
+---
+import { render } from 'astro:content';
+import 'katex/dist/katex.min.css';
+import Base from '../../../layouts/Base.astro';
+import { site } from '../../../config';
+import { getPosts, formatDate } from '../../../posts';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+<Base title={`${post.data.title} | ${site.name}`}>
+  <article>
+    <h1>{post.data.title}</h1>
+    <p class="meta">
+      <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+      {post.data.draft && <span class="draft">[draft: not included in the production build]</span>}
+    </p>
+    <Content />
+  </article>
+</Base>

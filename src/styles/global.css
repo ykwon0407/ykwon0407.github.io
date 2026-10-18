@@ -1,0 +1,95 @@
+:root {
+  color-scheme: light;
+  --bg: #f6f3ec;        /* warm paper */
+  --text: #2a2723;
+  --muted: #8a8378;
+  --rule: #e2ddd1;
+  --link: #8a3b2c;      /* muted brick */
+  --code-bg: #ece8de;
+  --serif: Charter, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 19px/1.75 var(--serif);
+  overflow-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  max-width: 38rem;
+  margin: 0 auto;
+  padding: 5rem 1.5rem 6rem;
+}
+
+h1 { font-size: 2.1rem; font-weight: 600; line-height: 1.2; letter-spacing: -0.01em; margin: 0 0 1.25rem; }
+h2 { font-size: 1.45rem; font-weight: 600; line-height: 1.3; margin: 3rem 0 0.75rem; }
+h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.4; margin: 2rem 0 0.5rem; }
+p, ul, ol, pre, table, blockquote { margin: 0 0 1.4rem; }
+strong { font-weight: 600; }
+
+a { color: var(--link); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.2em; text-decoration-color: color-mix(in srgb, var(--link) 40%, transparent); }
+a:hover { text-decoration-color: var(--link); }
+
+time, .meta { font-family: var(--sans); font-size: 0.85rem; color: var(--muted); }
+.draft { font-family: var(--sans); font-size: 0.8rem; color: var(--link); margin-left: 0.5em; }
+
+/* Homepage */
+main > h1 { font-size: 2.4rem; margin-bottom: 0.25rem; }
+main > h1 + p { color: var(--muted); margin-bottom: 2rem; }
+
+.posts { list-style: none; padding: 0; margin: 3.5rem 0 0; border-top: 1px solid var(--rule); padding-top: 2rem; }
+.posts li { display: grid; grid-template-columns: 7.5rem 1fr; align-items: baseline; margin-bottom: 0.9rem; line-height: 1.5; }
+.posts time { font-variant-numeric: tabular-nums; }
+.posts a { text-decoration: none; }
+.posts a:hover { text-decoration: underline; }
+
+/* Post */
+article h1 { font-size: 2.1rem; margin-bottom: 0.5rem; }
+article .meta { margin-bottom: 2.5rem; }
+article img { display: block; max-width: 100%; height: auto; margin: 2rem auto; }
+article hr { border: 0; border-top: 1px solid var(--rule); margin: 3rem 0; }
+article blockquote { padding-left: 1.1rem; border-left: 2px solid var(--rule); color: #5b564d; }
+
+code { font: 0.82em var(--mono); background: var(--code-bg); padding: 0.12em 0.35em; border-radius: 3px; }
+pre { padding: 1rem 1.1rem; overflow-x: auto; border-radius: 4px; font-size: 0.82rem; line-height: 1.6; }
+pre.astro-code { background-color: #efebe1 !important; }
+pre code { background: none; padding: 0; font-size: inherit; }
+
+table { display: block; overflow-x: auto; border-collapse: collapse; font: 0.85rem/1.5 var(--sans); }
+th, td { border-bottom: 1px solid var(--rule); padding: 0.45rem 0.8rem; text-align: left; }
+th { font-weight: 600; }
+
+.katex-display { overflow-x: auto; overflow-y: hidden; }
+
+/* Interactive figures (iframes): wider than the text column when there is room. */
+iframe.figure {
+  display: block;
+  border: 1px solid var(--rule);
+  width: 820px;
+  max-width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 2rem 0;
+}
+
+@media (max-width: 600px) {
+  body { font-size: 18px; }
+  main { padding-top: 3rem; }
+  main > h1 { font-size: 2rem; }
+  .posts li { display: block; margin-bottom: 1.25rem; }
+  .posts time { display: block; }
+}
+
+/* TLDR box: <div class="tldr"> in a post's Markdown */
+.tldr { background: #efebe1; border: 1px solid var(--rule); border-left: 3px solid var(--link); border-radius: 4px; padding: 1.25rem 1.5rem 0.5rem; margin: 2rem 0; }
+.tldr h2 { font: 600 0.8rem var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--link); margin: 0 0 0.9rem; }
+.tldr ul { padding-left: 1.2rem; margin: 0 0 0.75rem; }
+.tldr li { margin-bottom: 0.75rem; line-height: 1.65; font-size: 0.95em; }
